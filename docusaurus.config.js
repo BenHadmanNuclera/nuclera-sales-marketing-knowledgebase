@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Nuclera Sales and Marketing Knowledgebase",
   tagline: "Making Proteins Accessible",
-  url: "nuclera-sales-marketing-knowledgebase.netlify.app",
+  url: "https://nuclera-sales-marketing-knowledgebase.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
