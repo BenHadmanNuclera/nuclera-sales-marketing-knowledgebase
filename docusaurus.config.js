@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Nuclera Sales and Marketing Knowledgebase",
   tagline: "Making Proteins Accessible",
-  url: "https://your-docusaurus-test-site.com",
+  url: "nuclera-sales-marketing-knowledgebase.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -86,12 +86,12 @@ const config = {
             items: [
               {
                 label: "Salesforce",
-                to: "/docs/Salesforce"
-              },
-              {
-                label: "Marketo",
-                to: "/docs/marketo"
+                to: "/docs/category/salesforce"
               }
+             // {
+            //    label: "Marketo",
+            //    to: "/docs/category/marketo"
+           //   }
             ]
           },
           {
@@ -105,7 +105,7 @@ const config = {
               {
                 label: "Design System",
                 href:
-                  "https://www.figma.com/file/iQ1xPIODTj5fWP5Pl30Bqj/Nuclera-Design-System?node-id=22%3A2"
+                  "https://www.figma.com/file/5w3yu0itkiWUbUqPY42F2d/Nuclera-Design-System-%5BImported-9-Sep%5D?node-id=50751%3A75569"
               }
             ]
           },
