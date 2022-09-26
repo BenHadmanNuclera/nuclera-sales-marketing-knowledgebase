@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Intro to Knowledgebase
 
-This internal knowledgebase is the hub of all Sales and Marketing processes, business software walkthroughs and and other pertinent documentation.
+This internal knowledgebase is the hub of all Sales and Marketing processes, business software walkthroughs and other pertinent documentation.
 
-## Example Walkthrough (slido/dubble)
+## Example Walkthrough
 
 ### Create a Lead
 
