@@ -1,11 +1,15 @@
 ---
-sidebar_position: 6
-slug: how-to-make-a-knowledgebase-page
-title: How to make a Knowledgebase
 authors:
   - name: Ben Hadman
     title: Senior Digital Marketing Manager
-tags: [salesforce]
+slug: how-to-make-a-knowledgebase-page
+sidebar_position: 6
+id: /
+title: How to make a Knowledgebase Article
+hide_title: false
+hide_table_of_contents: true
+tags:
+  - salesforce
 ---
 
 :::caution
