@@ -44,3 +44,23 @@
   --ifm-background-color: #201d24;
   --ifm-font-color-base: #ffffff;
 }
+
+/* Auto layout */
+
+.button .button--nuclera {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 24px;
+  gap: 10px;
+  
+  position: absolute;
+  width: 103px;
+  height: 40px;
+  left: 20px;
+  top: 76px;
+
+  background: --ifm-color-primary;
+  border-radius: 100px;
+}
