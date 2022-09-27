@@ -47,20 +47,15 @@
 
 /* Auto layout */
 
-.button .button--white {
-  display: flex;
-  flex-direction: column;
+.button--white {
   justify-content: center;
   align-items: center;
   padding: 10px 24px;
   gap: 10px;
-  
-  position: absolute;
   width: 103px;
   height: 40px;
   left: 20px;
   top: 76px;
-
   background: #ffffff;
   border-radius: 100px;
 }
