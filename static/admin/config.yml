@@ -37,7 +37,7 @@ collections:
   folder: 'docs'
   path: '{{menu}}/{{id}}'
   create: true
-  slug: '{{id}}'
+  slug: '{{slug}}'
   identifier_field: 'title'
   extension: 'md'
   format: 'frontmatter'
@@ -46,7 +46,7 @@ collections:
   fields:
     # - name: 'menu'
     #   label: 'Menu'
-    - { label: 'Slug', name: 'id', widget: 'string' }
+    - { label: 'Slug', name: 'slug', widget: 'string' }
     - { label: 'Title', name: 'title', widget: 'string' }
     - { label: 'Hide Title', name: 'hide_title', widget: 'boolean', default: false }
     - { label: 'Hide Table of Contents', name: 'hide_table_of_contents', widget: 'boolean', default: false }
