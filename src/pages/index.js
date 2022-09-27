@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
             <Link
-            className="button button--secondary button--lg"
+            className="button button--white"
             to="/docs/intro">
             Go to docs
           </Link>

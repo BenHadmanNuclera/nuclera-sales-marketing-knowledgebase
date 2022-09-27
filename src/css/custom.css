@@ -47,7 +47,7 @@
 
 /* Auto layout */
 
-.button .button--nuclera {
+.button .button--white {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -61,6 +61,6 @@
   left: 20px;
   top: 76px;
 
-  background: --ifm-color-primary;
+  background: #ffffff;
   border-radius: 100px;
 }
