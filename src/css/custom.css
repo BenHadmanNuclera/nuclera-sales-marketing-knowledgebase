@@ -47,6 +47,11 @@
 
 /* Auto layout */
 
+.hero__title {
+  font-size: 3rem;
+  margin-bottom:50px;
+}
+
 .button--white {
   justify-content: center;
   align-items: center;
@@ -59,10 +64,10 @@
   background: #ffffff;
   border-radius: 100px;
 
-  font-family: --ifm-font-family-base;
-  font-weight: 500;
-  font-size: 14px;
+  font-family: var(--ifm-font-family-base);
+  font-weight: 700;
+  font-size: 1.2rem;
   line-height: 20px;
 
-  color:--ifm-color-primary;
+  color: var(--ifm-color-primary);
 }
