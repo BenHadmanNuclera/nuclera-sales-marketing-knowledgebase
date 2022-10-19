@@ -7,7 +7,7 @@ authors:
     title: Senior Digital Marketing Manager
 tags: [leads]
 description: Simple and eay documentation to follow the Linus Leads Process
-image: "./static/img/docs-meta-image/docs-thumb.png"
+image: "./static/img/docs-thumb.png"
 ---
 ---
 
