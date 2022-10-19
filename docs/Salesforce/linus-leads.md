@@ -18,7 +18,9 @@ image: "@site/static/img/docs-thumb.png"
   src="https://viewer.diagrams.net/?tags=%7B%7D&layers=1&nav=1#G1sR88Uh29PkOiLCIhcP_a-T_0Hea3gsku"
 />
 
-## Responding to Inbound Linus Leads, adding suggested meeting times and loggin in salesforce
+## Walkthrough
+
+Responding to Inbound Linus Leads, Adding Suggested Meeting Times and Logging in Salesforce
 
 <iframe
   src="https://scribehow.com/embed/Google_Workflow__jyusGezQT0eCgJIBTpgjzw"
