@@ -6,6 +6,9 @@ authors:
   - name: Ben Hadman
     title: Senior Digital Marketing Manager
 tags: [leads]
+description: Simple and eay documentation to follow the Linus Leads Process
+image: [Docusaurus banner](./static/img/docs-meta-image/docs-thumb.png 'docs-meta-image')
+---
 ---
 
 ---
