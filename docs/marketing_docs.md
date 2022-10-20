@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 slug: marketing+docs
 title: Marketing Docs
 authors:

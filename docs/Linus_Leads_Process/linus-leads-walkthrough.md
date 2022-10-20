@@ -95,7 +95,7 @@ Responding to Inbound Linus Leads, Adding Suggested Meeting Times and Logging in
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/3393249e-6330-4456-8fc5-1d95d3173758/1/54.916178385417/69.932305124892?0)
 
-13\. [Delete Meeting length 7 Timezone](https://mail.google.com/mail/u/0/#inbox/FMfcgzGqRGVJwLzPFtsZvTHHHWSkpMZC)
+13\. [Delete 'Meeting length' & 'Timezone'](https://mail.google.com/mail/u/0/#inbox/FMfcgzGqRGVJwLzPFtsZvTHHHWSkpMZC)
 -----------------------------------------------------------------------------------------------------------------
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/fc94a03b-c7dd-47c1-a88f-95ef5dfaaf0d/2.5/16.883951822917/47.174445521102?0)
@@ -122,4 +122,4 @@ Then click 'Log'
 17\. [Great Success](https://mail.google.com/mail/u/0/#inbox/FMfcgzGqRGVJwLzPFtsZvTHHHWSkpMZC)
 ----------------------------------------------------------------------------------------------
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/a7a37d76-aa66-4386-a265-b0e990ba3de8/1/0/0?0)
+![](https://media.tenor.com/Cyr2PR6E3kkAAAAC/sacha-baron.gif)
