@@ -9,7 +9,7 @@ tags: [leads]
 description: Email Templates for the Linus Leads Process 
 ---
 
-# Template 1 - Replying to the inital Introduction Email sent from Linus.
+## Template 1 - Replying to the inital Introduction Email sent from Linus.
 
 Hi {{Lead.fname}},
 
@@ -26,5 +26,7 @@ I have suggested a few times below, if any of them work for you then please sele
 {{ChiliPiper suggested meeting times}}
 
 Kind Regards,
+
 {{Your Name}}
+
 {{Email_Signature}}
