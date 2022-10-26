@@ -10,8 +10,10 @@ tags: [salesforce]
 
 # Lists
 
+Lists are a tabular format for showing multiple records on the page, you can filter, sort and customise the fields displayed.
+You can also have multiple saved lists to flick between depending on what data you want to see.
 
-Customising List Fields
+## Customising List Fields
 
 ### 1\. [Go to any List of records](https://nuclera.lightning.force.com/lightning/o/Lead/list?filterName=00B8d000008p7KHEAY)
 ------------------------------------------------------------------------------------------------------------------------
