@@ -26,12 +26,29 @@ It is easiest to create an opportunity from a contact record. When you create an
 The automations that pre populate data are as follows:
 - The same account that the contact is connected to is also connected to the opportunity.
 - The close date is set 6 months in advance (180 days).
+- The Opportunity Amount is set to £90,000.
 - The Opportunity Stage is set to the first stage (1 - Qualifying)
 - The Opportunity Name is set according to [naming conventions](#naming-conventions)
 
 There are a few prerequisities before creating an opportunity:
 - The contact is connected to an account (preferably the [account hierarchy](./accounts#hierarchies) has been formed too)
 - The contact has a Mailing Address added. (State and Country at a minimum)
+
+
+### 1\. [Go to a Contact Record](https://nuclera.lightning.force.com/lightning/r/Contact/0038d00000H8ta6AAB/view)
+-------------------------------------------------------------------------------------------------------------
+
+![](https://dubble-prod-01.s3.amazonaws.com/assets/a87bcae2-c4bc-43ac-90e5-67fe9ce0eb2d.png?0)
+
+### 2\. [Click on New Opportunity](https://nuclera.lightning.force.com/lightning/r/Contact/0038d00000H8ta6AAB/view)
+---------------------------------------------------------------------------------------------------------------
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/faf017e7-9ff2-441b-9d6d-b71feb3049df/2.5/92.715657552083/8.0211324479541?0)
+
+### 3\. [Check the details are correct, maybe tidying the Opportunity Name, lick on Save](https://nuclera.lightning.force.com/lightning/action/quick/Contact.Newopp?objectApiName=Opportunity&context=RECORD_DETAIL&recordId=0038d00000H8ta6AAB&backgroundContext=%2Flightning%2Fr%2FContact%2F0038d00000H8ta6AAB%2Fview)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/40e3b9e3-6c76-4dee-93d4-3e4912f12b1e/2.5/65.9375/62.049645549174?0)
 
 ## Naming Conventions
 
