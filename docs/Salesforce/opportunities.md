@@ -24,9 +24,10 @@ The use of a defined process has another useful outcome, when used across a coho
 
 ## Naming Conventions
 
-AccountName - Location(State) - Location(CountryTwoLetterCode) - Date(Mmm/YY)
+AccountName - ContactName - Location(State) - Location(CountryTwoLetterCode) - Date(Mm/YY)
 
 #### Examples
-GlaxoSmithKline - Ware - UK - Oct/22
-Moderna Therapeutics - Massachusetts - US - Jul/21
+GlaxoSmithKline - Albert Einstein - Ware - UK - Oct/22
+
+Moderna Therapeutics - Marie Curie - Massachusetts - US - Jul/21
 

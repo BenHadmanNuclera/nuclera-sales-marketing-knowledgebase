@@ -26,7 +26,9 @@ The following process diagram shows how to go about working through this convers
 
 ![Lead Conversion Decision Matrix](https://focusonforce.com/wp-content/uploads/2014/02/Salesforce-Lead-Conversion-Process2.png)
 
-## When to convert a lead and when to create an opportunity
+## How to convert a lead
+
+
 
 ### Common scenarios
 

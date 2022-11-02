@@ -25,8 +25,24 @@ I have suggested a few times below, if any of them work for you then please sele
 
 {{ChiliPiper suggested meeting times}}
 
-Kind Regards,
+Kind regards,
 
 {{Your Name}}
 
 {{Email_Signature}}
+
+
+## Template 2 - No Response - Follow-up Message
+
+Hi {{Lead.fname}},
+
+I was wondering if you wanted to catch up on the following?
+Please see the following flyer which should provide some more information about our offering LINK HERE
+I've listed some more free times below, if you click on the meeting time that suits you.
+
+Kind regards,
+
+{{Your Name}}
+
+{{Email_Signature}}
+
