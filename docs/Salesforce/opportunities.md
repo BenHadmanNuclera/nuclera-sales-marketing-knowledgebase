@@ -29,7 +29,7 @@ The automations that pre populate data are as follows:
 - The Opportunity Name is set according to [naming conventions](#naming-conventions)
 
 There are a few prerequisities before creating a contact.
-- The contact is connected to an account (preferably the [account hierarchy](/accounts#hierarchies) has been formed too)
+- The contact is connected to an account (preferably the [account hierarchy](./accounts#hierarchies) has been formed too)
 - The contact has a Mailing Address added. (State and Country at a minimum)
 
 ## Naming Conventions
