@@ -20,7 +20,8 @@ The use of a defined process has another useful outcome, when used across a coho
 ## Creating an Opportunity
 
 Creating an opportunity can be performed from various areas of the platform e.g. from the opportunities list view, from a global action, and from an account record.
-It is easiest to create an opportunity from a contact record. When you create an opportunity this way there are a number of automations or pre-filled actions that save you time and ensure data is entered using the correct formats.
+
+It is easiest to create an opportunity from a contact record. When you create an opportunity this way there are a number of automations or pre-filled actions that save you time and ensure data is entered using the correct formats/naming conventions.
 
 The automations that pre populate data are as follows:
 - The same account that the contact is connected to is also connected to the opportunity.
@@ -28,7 +29,7 @@ The automations that pre populate data are as follows:
 - The Opportunity Stage is set to the first stage (1 - Qualifying)
 - The Opportunity Name is set according to [naming conventions](#naming-conventions)
 
-There are a few prerequisities before creating a contact.
+There are a few prerequisities before creating an opportunity:
 - The contact is connected to an account (preferably the [account hierarchy](./accounts#hierarchies) has been formed too)
 - The contact has a Mailing Address added. (State and Country at a minimum)
 
