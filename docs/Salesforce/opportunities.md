@@ -34,6 +34,17 @@ There are a few prerequisities before creating an opportunity:
 - The contact is connected to an account (preferably the [account hierarchy](./accounts#hierarchies) has been formed too)
 - The contact has a Mailing Address added. (State and Country at a minimum)
 
+## Naming Conventions
+
+AccountName - ContactName - Location(State) - Location(CountryTwoLetterCode) - Date(Mmm/YY)
+
+#### Examples
+GlaxoSmithKline - Albert Einstein - Ware - UK - Oct/22
+
+Moderna Therapeutics - Marie Curie - Massachusetts - US - Jul/21
+
+## Walkthrough - Creating an Opportunity
+
 
 ### 1\. [Go to a Contact Record](https://nuclera.lightning.force.com/lightning/r/Contact/0038d00000H8ta6AAB/view)
 -------------------------------------------------------------------------------------------------------------
@@ -45,17 +56,10 @@ There are a few prerequisities before creating an opportunity:
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/faf017e7-9ff2-441b-9d6d-b71feb3049df/2.5/92.715657552083/8.0211324479541?0)
 
-### 3\. [Check the details are correct, maybe tidying the Opportunity Name, lick on Save](https://nuclera.lightning.force.com/lightning/action/quick/Contact.Newopp?objectApiName=Opportunity&context=RECORD_DETAIL&recordId=0038d00000H8ta6AAB&backgroundContext=%2Flightning%2Fr%2FContact%2F0038d00000H8ta6AAB%2Fview)
+### 3\. [Check the details are correct, maybe tidying the Opportunity Name, click on Save](https://nuclera.lightning.force.com/lightning/action/quick/Contact.Newopp?objectApiName=Opportunity&context=RECORD_DETAIL&recordId=0038d00000H8ta6AAB&backgroundContext=%2Flightning%2Fr%2FContact%2F0038d00000H8ta6AAB%2Fview)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/40e3b9e3-6c76-4dee-93d4-3e4912f12b1e/2.5/65.9375/62.049645549174?0)
 
-## Naming Conventions
 
-AccountName - ContactName - Location(State) - Location(CountryTwoLetterCode) - Date(Mmm/YY)
-
-#### Examples
-GlaxoSmithKline - Albert Einstein - Ware - UK - Oct/22
-
-Moderna Therapeutics - Marie Curie - Massachusetts - US - Jul/21
 
