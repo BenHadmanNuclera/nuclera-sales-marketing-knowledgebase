@@ -63,7 +63,9 @@ Moderna Therapeutics - Marie Curie - Massachusetts - US - Jul/21
 
 ## Recording Notes
 
-See ![Notes](/notes)
+Recording long form notes about an opportunity should be performed on the Notes object.
+
+See [Notes](./notes)
 
 
 
