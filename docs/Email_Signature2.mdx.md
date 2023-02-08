@@ -49,18 +49,11 @@ export const Highlight = ({children, color}) => (
 
 I can write **Markdown** alongside my _JSX_!
 
-const App = () => {
+export const App = () => (
   const [buttonText, setButtonText] = useState('Click');
 
   function handleClick() {
     setButtonText('New text');
   }
-
-  return (
-    <div>
-      <button onClick={handleClick}>{buttonText}</button>
-    </div>
-  );
-};
-
-export default App;
+);
+<div><button onClick={handleClick}>{buttonText}</button></div>

@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Nuclera Sales and Marketing Knowledgebase",
+  title: "Nuclera Sales and Marketing Knowledge base",
   tagline: "Making Proteins Accessible",
   url: "https://nuclera-sales-marketing-knowledgebase.netlify.app",
   baseUrl: "/",
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "Nuclera", // Usually your GitHub org/user name.
-  projectName: "Sales & Marketing Knowledgebase", // Usually your repo name.
+  projectName: "Sales & Marketing Knowledge base", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Sales and Marketing Knowledgebase",
+        title: "Sales and Marketing Knowledge base",
         logo: {
           alt: "Nuclera Logo",
           src: "img/nucleralog.svg"
@@ -82,7 +82,7 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Knowledgebase",
+            title: "Knowledge base",
             items: [
               {
                 label: "Salesforce",
@@ -123,7 +123,7 @@ const config = {
             ]
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Nuclera Sales and Marketing Knowledgebase.`
+        copyright: `Copyright © ${new Date().getFullYear()} Nuclera Sales and Marketing Knowledge base.`
       },
       prism: {
         theme: lightCodeTheme,
