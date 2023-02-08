@@ -11,7 +11,7 @@ sidebar_position: 1
 - Copy
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://dubble-prod-01.s3.amazonaws.com/assets/bb4a7709-513c-42d7-a5b7-94f4ca634142.png?0)
+![](https://dubble-prod-01.s3.amazonaws.com/assets/3a9f2213-d3e7-4703-92fc-27bddd1c7076.png?0)
 
 2\. [Click on Settings Cog](https://mail.google.com/mail/u/0/#inbox)
 --------------------------------------------------------------------
