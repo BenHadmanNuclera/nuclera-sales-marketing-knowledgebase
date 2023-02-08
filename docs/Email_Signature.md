@@ -5,6 +5,10 @@ sidebar_position: 1
 # Nuclera Branded Email Signature
 
 1\. [Go to https://sites.google.com/nuclera.com/intranet/email-signature](https://sites.google.com/nuclera.com/intranet/email-signature?authuser=0)
+- Fill in your personal details>
+- Click Generate Email Signature
+- Highlight from your name the the very bottom of the generated signature block.
+- Copy
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://dubble-prod-01.s3.amazonaws.com/assets/bb4a7709-513c-42d7-a5b7-94f4ca634142.png?0)
