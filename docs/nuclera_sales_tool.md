@@ -24,7 +24,7 @@ Add LinkedIn Profiles to Salesforce in One Click
 
 - Download the ZIP file and Extract on your local machine.
 
-- Open chrome and navigate to [the extensions settings](chrome://extensions/)
+- Open chrome and navigate to the extensions settings by copying _chrome://extensions/_ in a new tab.
 
 - Click 'Load unpacked' and select the folder you just Extracted.
 
