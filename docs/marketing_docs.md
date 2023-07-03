@@ -10,8 +10,6 @@ tags: [marketing]
 
 # Marketing Docs
 
-* [Brand Guidelines ](https://drive.google.com/file/d/14CIor6OwTC5oXL1TWxPY9YvKeqbU77DT/view)
+* [Asset Register](https://docs.google.com/spreadsheets/d/1203h5lg9okgDQaSqBJCMiNCaxUPnSv6WQC-AGJ_CoJo/edit#gid=0)
+* [Brand Guidelines ]()
 * [UI/UX Design System](https://www.figma.com/file/5w3yu0itkiWUbUqPY42F2d/Nuclera-Design-System-%5BImported-9-Sep%5D?node-id=50751%3A75569)
-* Salesforce Project Trello Project N/A
-* [Marketo Project Trello Project](https://trello.com/b/JW22mtxO/nucleramkto-implementation9-22)
-* [Website Project Trello Project](https://trello.com/b/dImwRUIh/nuclera)
