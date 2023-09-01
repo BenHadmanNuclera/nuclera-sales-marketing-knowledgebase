@@ -26,7 +26,7 @@ The example in the image below shows how accounts can be arranged into a hierarc
  - Lab level
  - Shipping level
 
-![Account Structure & Hierarchy](./static/img/accountHierarchy.jpg)
+![Account Structure & Hierarchy](https://knowledgebase.nuclera.com/img/accountHierarchy.jpg)
 
 # Naming Conventions
 
