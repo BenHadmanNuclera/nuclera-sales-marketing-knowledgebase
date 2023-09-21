@@ -33,7 +33,10 @@ In most cases the resource will be a PDF which is hosted on Marketo so select Li
 
 ### [6\. Paste in the External Site url](https://www.nuclera.com/wp-admin/post-new.php?post_type=resources)
 
+Use a marketo hosted file here. [See the how-to](https://knowledgebase.nuclera.com/docs/Marketo/uploading-new-asset-versions)
+
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/4b49696f-887c-49e9-8ac5-bb204450721d/1/45.963541666667/56.612146354733?0)
+
 
 ### [7\. Select a Resource Type that applies](https://www.nuclera.com/wp-admin/post-new.php?post_type=resources)
 

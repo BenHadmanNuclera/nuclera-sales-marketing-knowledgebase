@@ -8,11 +8,6 @@ authors:
 tags: [salesforce]
 ---
 
-:::caution
-
-this content is under development, for illustrative purposes only.
-
-:::
 
 # Opportunity Process
 <div
