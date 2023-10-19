@@ -36,7 +36,7 @@ Apple App Store: [https://apps.apple.com/us/app/google-authenticator/id388497605
 
 ### [7\. Scan the QR code with your google authenticator app](https://nuclera.my.salesforce.com/_ui/identity/twofactor/AddTwoFactorUi?retURL=%2Fone%2Fone.app&atopt=d9332fa0-c36c-428f-86b4-fe5b02b521edea1a0cdb-e86b-4773-b04b-5b46f5f9d048&fcc=0)
 
-![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/2f98ba4f-bf9f-4be3-a5e4-0e01edaca9b7/2.5/49.3359375/92.658377964162?0)
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/5828664f-93c4-4f42-8db1-0a4091cf901d/2.5/49.431479151972/83.86163092791?0)
 
 ### [8\. Enter the code on your google authenticator app](https://nuclera.my.salesforce.com/_ui/identity/twofactor/AddTwoFactorUi?retURL=%2Fone%2Fone.app&atopt=d9332fa0-c36c-428f-86b4-fe5b02b521edea1a0cdb-e86b-4773-b04b-5b46f5f9d048&fcc=0)
 
