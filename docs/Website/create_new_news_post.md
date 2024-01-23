@@ -1,4 +1,3 @@
-
 ---
 sidebar_position: 2
 slug: creating-a-news-post
