@@ -23,33 +23,50 @@ This Order Management Guide aims to explain the elements of the process from quo
 />
 
 ## Objects & Configurators / Wizards in Salesforce
+
 *Objects* in Salesforce are a type of record e.g. Opportunity, Lead, Order etc.
+
 Different data fields are stored on each 'object' relevant to the the objects purpose.
+
 Some data is copied from one to another in a linear porcess often called 'converting'.
+
 The diagram explains the conversion steps using arrows.
+
 Dotted lines Explain where there is a tight link between Objects.
+
 *Configurators / Wizards* are tabs or windows that guide you through a process of converting objects, these have screenshots in the diagram above.
 
 ## Description of the process
 
 ### 1. Opportunity
+
 Basic data like currency, Shipping & Billing Country, Revenue Model (CapEx vs. Reagent Rental) is stored on an opportunity record.
 
 ### 2. Quote Configurator (Quote & Opportunity Products)
+
 This configurator helps you set the right basic data about the opportunity and helps filter and pre-select the right Opportunity Products onto the opportunity.
+
 Quotes are adminsitered through Panadadoc which reads the data stored on the Opportunity and Opportunity Products and 'prints' them onto e-sign/ pdf quote.
 
 ### 3. Opportunity to Order Wizard
+
 when a PO is received the products and data submitted by the customer needs to be checked against what was issued on the quote, which has all been pulled from the Opportunity and Opportunity Product.
+
 A human-in-the-loop checking/ reconcilation between the two docs needs to be performed.
+
 The Opportunity to Order Wizard is the streamlined way of performing that reconcilation.
+
 When it is complete an Order will be generated with the correct Order Products copied from the Opportunity.
 
 ### 4. Order Summary
+
 The Order Summary is the Salesforce Order Management System object which enhances the standard Order object.
+
 It provides an enhanced view for managing an Order as well as pulling data from other objects into one view that standard Order objects dont have the functioanlity to deal with such as Fulfilment Orders and Shipping.
 
 ### 5. Fulfilment Order
+
 Fulfilment Orders (called Shipments in IFS) are the Object that group together some/ all of the Order Products to be delivered to the Customer.
+
 They contain the shipping date fields and statuses of the delivery too.
 
