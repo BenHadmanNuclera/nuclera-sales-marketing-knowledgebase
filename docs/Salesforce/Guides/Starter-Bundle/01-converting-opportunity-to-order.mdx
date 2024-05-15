@@ -1,0 +1,95 @@
+---
+sidebar_position: 2
+slug: converting-opportunity-to-order
+title: Converting an Opportunity to an Order
+authors:
+  - name: Ben Hadman
+    title: Senior Digital Marketing Manager
+tags: [salesforce]
+---
+
+# Converting an Opportunity to an Order
+
+Once you have received a PO from the customer you will need to compare the details on the PO with that of the Opportunity Record/ Quote.
+This Guide takes you through the process of comparing the two docs, and if matching converting the Opportunity to an Order.
+
+You will also need to perform some housekeeping tasks at this stage of the process.
+
+## Shipping-level Accounts
+The Shipping-level account is the Account record that you will use to associate to the order and treat as the main Account attached to this user-group/ starter bundle order.
+The data-completeness of the Account attached to the Opportunity prior to receiving the PO will likely be very low.
+You will need to either clone a new account and add into the account hierarchy or use the existing account attached to the Opportunity.
+
+You will need to add the following information:
+- The shipping and billing addresses outlined on the PO, 
+- Add the shipping, billing and any other Contacts associated with the user group to the Account.
+- Change the currency.
+
+Once you have created your Shipping level account you can start the *Opportunity to Order Wizard*
+
+## Wizard Walkthrough
+
+### [1\. Go to an Opportunity](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://dubble-prod-01.s3.amazonaws.com/assets/fae71ba4-3fab-4aae-92db-495b0afb5340.png?0)
+
+### [2\. The Wizard is Location on the Order tab](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c8c2a191-ac8f-4838-90ed-d8a90c174da4/1.0202651811435/7.4363782521511/59.004534287412?0)
+
+### [3.](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/3dce99b9-c63e-448b-a66d-d69eb70830e2/2/0/17.082344517303?0)
+
+------------------
+
+### [4\. Click on Ship to and Bill to (Contact) Drop downs](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+These are pre-filled with the contacts attached to the account
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/b9e03005-5e04-4229-8154-08247a055636/2.5/0.9895833581686/68.739703459638?0)
+
+### [5.](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/861ec799-9fd5-49c5-a85d-0091b1a4ebea/2.5/49.776206016541/68.739703459638?0)
+
+### [6\. Click on Next](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/f31f7d7d-4acb-4a28-953c-4212a64874f5/2.5/65.673828125/74.945086898678?0)
+
+### [7\. Add the Contact and Address Information](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+Much of the Contact data will have pre-filled, check this is correct and matches the PO.  
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/707b41c2-9646-46cd-b369-55914ad28e21/2.5/0/36.867304381697?0)
+
+### [8\. Add Finance VAT and Tax info](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/39bdd4de-ed18-4092-9da5-bc7d85abb32a/1.0674269095362/0/80.414892745549?0)
+
+### [9\. Upload the PO and Tax Cert.](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+This will be stored attached to both the Account and Order
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/5abf1eb8-7573-4639-bc70-c2a37cf04fd8/2.5/2.265625/85.47501540459?0)
+
+### [10.](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c64326af-82a8-4008-80ac-6948e9954210/1/50/50.027460792705?0)
+
+### [11.](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/1f49c84a-d416-4fa2-8495-336ccd9601e5/2.5/61.197918280959/59.980781467193?0)
+
+### [12\. Click on Next](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/499f1a3b-baa6-468c-9700-f68f86ab0a67/1.5/0/100?0)
+
+### [13\. Success - Click on Order URL to view the order](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/ee0283a2-c885-4efa-ae34-48e6237dd236/2.5/0/38.69131736831?0)
+
+### [14\. Click on Finish](https://nuclera.lightning.force.com/lightning/r/Opportunity/006UE000004BmBtYAK/view)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/6d68b4ef-703f-41cb-a653-379f29b2527f/2.5/65.673829913139/50.741352634336?0)
+
