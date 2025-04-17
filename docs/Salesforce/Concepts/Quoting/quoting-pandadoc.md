@@ -67,3 +67,32 @@ Commercial = Primary: Joe, Secondary: Kristine
 Finance = Seth or Daniel, depending on time zone or availability
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/9e40777d-0dac-4f8c-9423-43819ff4f8bd/2.5/48.424479216337/48.971567309703?1)
+
+Sending the Quote
+-----------------
+
+###  Sending the Quote
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/9d36dced-7f89-4bd2-be6c-2f2978f003db/2.5/83.672159625638/0?1)
+
+### Click on Link
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/144ee32c-a5b7-4183-818d-2ad8a173a710/2.5/87.88290334517/0?1)
+
+### Name it something customer friendly - Save and continue
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/d153ca9a-059f-4db6-8132-17504a0b124d/2.5/60.9375/55.299289458273?1)
+
+### Click on Generate links
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/26721c30-e793-4a72-82b2-175c512e8cf8/2.5/37.34375/35.118067834091?1)
+
+### Find the customer's link > Click on Copy
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/fb7d0ae7-d637-4758-9da5-199b0fcb0bc2/2.5/50.678427419355/36.221614573591?1)
+
+### Click on Done
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/2362d8d1-5b44-48f1-a643-09cf120b0c8d/2.5/50.420364542354/61.993250439752?1)
+
+### Paste the link into your Gmail and send to the customer
