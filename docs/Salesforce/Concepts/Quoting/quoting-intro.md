@@ -5,7 +5,7 @@ title: Introduction
 authors:
   - name: Ben Hadman
     title: Associate Director of Demand Generation
-tags: salesforce]
+tags: [salesforce]
 ---
 
 # Introduction

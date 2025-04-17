@@ -5,7 +5,7 @@ title: 1. Steps in Salesforce
 authors:
   - name: Ben Hadman
     title: Associate Director of Demand Generation
-tags: salesforce]
+tags: [salesforce]
 ---
 
 # Quoting
