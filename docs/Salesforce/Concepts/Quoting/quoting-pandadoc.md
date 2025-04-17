@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 slug: quoting-pandadoc
-title: Quoting
+title: 2. Steps in Pandadoc
 authors:
   - name: Ben Hadman
     title: Associate Director of Demand Generation

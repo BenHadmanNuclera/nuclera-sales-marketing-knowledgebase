@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 slug: quotes
-title: Quoting in Salesforce
+title: 1. Steps in Salesforce
 authors:
   - name: Ben Hadman
     title: Associate Director of Demand Generation
