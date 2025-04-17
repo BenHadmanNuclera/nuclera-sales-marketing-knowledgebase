@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 slug: quote-salesforce
 title: 1. Steps in Salesforce
 authors:
