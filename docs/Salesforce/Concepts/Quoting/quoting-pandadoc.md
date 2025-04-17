@@ -12,6 +12,12 @@ tags: [salesforce]
 # Quotes in Pandadoc Explained
 
 
+### Click on the template named 'Quote template (SFDC Connected)
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/c8879a33-dee8-43cc-a180-c77b78131fc6/2.5/36.785481770833/45.95936538884?1)
+
+
+
 ### Customer Inputs
 
 The Red/Orange Inputs are required from the customer to be able to process the Quote & Purchase Order and move the Order into Fulfilment.

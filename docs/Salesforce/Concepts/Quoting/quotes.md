@@ -5,7 +5,7 @@ title: Quoting in Salesforce
 authors:
   - name: Ben Hadman
     title: Associate Director of Demand Generation
-tags: [salesforce]
+tags: salesforce]
 ---
 
 # Quoting
@@ -58,9 +58,51 @@ Discount
 
 ### 8\. Apply blanket Discount across all products (optional)
 
+:::warning
+
 _Any_ discount triggers an automatic approval chain:  
 \- First to Joe or Kristine and then, either Seth or Daniel in Finance.
+
+:::
+
 
 This applies discount to all of your products in one go, if you would like to apply discount to specific products but not others then wait till a later step.
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/bdb4d6a1-493c-4927-8dae-4ba08360f8d1/1.0480651953215/33.26192304492/55.784936479129?1)
+
+
+### 9\. Opportunity Products Summary Table
+
+Here you can see all of the products that have been compiled to add to the Opportunity and put onto the quote.  
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/99833565-b07c-4a2f-bbc8-a002d6ab882b/1.5470225355659/3.4170964711454/82.412694585179?1)
+
+### 10\. Sort by Product Bundle to arrange into a better order
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/68b88230-be3f-40af-80f7-20536a2f4433/2.5/4.8942057291667/36.486365883128?1)
+
+### 11\. Acceptance Kit Products
+
+Acceptance Kit Products are hidden from the quote and are required for the FAS team to install an instrument. Keep these here so that the correct products are shipped to the customer for installation.
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/e4278867-fe16-4084-9c50-77908449a2a1/2.5/4.8942057291667/52.518123901582?1)
+
+### 12\. Editing Quantities
+
+You can edit quantities in this final screen to tailor the quote to exacting requirements.
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/0ba04441-4158-4c01-8109-8364ecefd903/2.5/52.684733072917/55.173206832162?1)
+
+### 13\. Line Item Discount
+
+You can tailor discount here at a line item level.
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/6b5b37fd-c85b-4b56-a622-e99b41f8fef7/2.5/50.541178385417/55.226411467487?1)
+
+### 14\. Remember to click 'Save'
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/3ed38ce6-dae8-4c92-bc57-17a8d27d2fbb/2.5/33.702799479167/95.147050746924?1)
+
+### 15\. Click on Finish Configurator & Move to Pandadoc
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/46e2cf7f-5cd0-4894-a224-33bb1527747b/2.5/65.75439453125/48.723432007909?1)
