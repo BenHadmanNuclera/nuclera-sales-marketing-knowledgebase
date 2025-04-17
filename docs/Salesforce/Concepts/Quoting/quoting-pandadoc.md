@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-slug: quoting-pandadoc
+slug: quote-pandadoc
 title: 2. Steps in Pandadoc
 authors:
   - name: Ben Hadman

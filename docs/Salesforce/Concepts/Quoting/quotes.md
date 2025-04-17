@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-slug: quotes
+slug: quote-salesforce
 title: 1. Steps in Salesforce
 authors:
   - name: Ben Hadman
