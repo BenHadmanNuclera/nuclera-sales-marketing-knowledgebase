@@ -28,7 +28,16 @@ sidebar_position: 1
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/e3d0a0e9-f029-4ae3-a9e1-f5d7a619e090/2.5/54.818546028692/45.926237894484?0)
 
-5\. [Click on Save Changes](https://mail.google.com/mail/u/0/#settings/general)
+5\. [Set your new signature as the default](https://mail.google.com/mail/u/0/#settings/general)
+
+FOR NEW EMAILS USE  
+  
+Not required for ON REPLY/FORWRD USE
+
+![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/515bd8cc-b094-4256-8a47-b70584515b26/1/0/0?1)
+
+6\. [Click on Save Changes](https://mail.google.com/mail/u/0/#settings/general)
 -------------------------------------------------------------------------------
 
 ![](https://d3q7ie80jbiqey.cloudfront.net/media/image/zoom/b529cb08-6f48-4f03-96c3-bc4d03173fef/2.5/56.841563865494/88.547053612953?0)
+
