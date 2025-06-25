@@ -14,7 +14,7 @@ AlphaFold integration into eProtein Discovery™ transforms protein design into 
 
 With AlphaFold-guided variant design and eProtein Discovery’s automated screening, protein engineering is no longer guesswork — it’s a data-driven strategy that accelerates discovery.
 
-Here’s a short introduction video to AlphaFold
+[Here’s a short introduction video to AlphaFold](https://share.vidyard.com/watch/onqgT69acSwbH63CBxYF2n?)
 
 
 <iframe
