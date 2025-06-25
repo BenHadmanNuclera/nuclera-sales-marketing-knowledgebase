@@ -20,7 +20,7 @@ tags: [product]
 
 *16/06/2025*
 
-*Content:*  
+**Content:**  
 **Asset name:** [BTK Cytiva App Note](https://info.nuclera.com/appnote-accelerated-kinase-drug-discovery-cytiva.html)  
 **Asset type:** App Note
 
