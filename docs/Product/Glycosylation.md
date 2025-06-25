@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
-slug: Customer_Objections
-title: Customer Objections
+slug: Glycosylation
+title: Glycosylation
 tags: [product]
 ---
 
