@@ -17,5 +17,3 @@ With AlphaFold-guided variant design and eProtein Discovery’s automated screen
 Here’s a short introduction video to AlphaFold
 
 \[**Insert Knowledgebase Video**\]
-
-[For a full training session covering all AlphaFold features watch this video](https://drive.google.com/file/d/1CgdESv_L3ec8foXOtAe2X91KbI9J6PgB/view?usp=sharing)
