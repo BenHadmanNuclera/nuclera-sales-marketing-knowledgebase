@@ -19,7 +19,7 @@ Here’s a short introduction video to AlphaFold
 
 <iframe
   src="https://share.vidyard.com/watch/onqgT69acSwbH63CBxYF2n?"
-  width={640}
-  height={480}
+  width={1280}
+  height={960}
   allow="autoplay"
 />
