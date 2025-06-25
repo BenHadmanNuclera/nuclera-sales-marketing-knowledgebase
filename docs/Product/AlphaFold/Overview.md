@@ -17,4 +17,9 @@ With AlphaFold-guided variant design and eProtein Discovery’s automated screen
 Here’s a short introduction video to AlphaFold
 
 
-<iframe class="vidyard_iframe" title="Alphafold " src="//play.vidyard.com/onqgT69acSwbH63CBxYF2n.html?" width=640 height=360 scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe
+  src="https://share.vidyard.com/watch/onqgT69acSwbH63CBxYF2n?"
+  width={640}
+  height={480}
+  allow="autoplay"
+/>
