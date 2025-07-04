@@ -1,8 +1,6 @@
 {
   "label": "Marketo",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "description": ":::note This section is under construction ::: Learn how to use Marketo using interactive docs."
-  }
+  "position": 5,
+  "collapsible": true,
+  "collapsed": false
 }

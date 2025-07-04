@@ -41,7 +41,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          sidebarCollapsible: false
+          sidebarCollapsible: true
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -68,7 +68,7 @@ const config = {
       appId: 'YHZ4L9JEUX',
 
       // Public API key: it is safe to commit it
-      apiKey: '444cf44bdbccd11643efc793a09a670f',
+      apiKey: '23d2ba8a72bddc942991fc5925e2a726',
 
       indexName: 'knowledgebase-nuclera',
 
