@@ -19,7 +19,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  noIndex: true,
+  noIndex: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -93,7 +93,7 @@ const config = {
       //... other Algolia params
     },
       navbar: {
-        title: "Sales and Marketing Knowledge base",
+        title: "Sales and Marketing Knowledge Base",
         logo: {
           alt: "Nuclera Logo",
           src: "img/nucleralog.svg"
@@ -106,11 +106,11 @@ const config = {
             label: "Docs"
           }
           // { to: "/blog", label: "Blog", position: "left" },
-          /* {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
+           {
+            href: "https://www.appsheet.com/start/3690b1a7-e3fc-4fd7-b5b2-a7728356b52f",
+            label: "Asset Register",
             position: "right"
-          } */
+          } 
         ]
       },
       footer: {
