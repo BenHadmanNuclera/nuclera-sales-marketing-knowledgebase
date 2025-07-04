@@ -104,7 +104,7 @@ const config = {
             docId: "intro",
             position: "left",
             label: "Docs"
-          }
+          },
           // { to: "/blog", label: "Blog", position: "left" },
            {
             href: "https://www.appsheet.com/start/3690b1a7-e3fc-4fd7-b5b2-a7728356b52f",
