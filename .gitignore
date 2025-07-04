@@ -1,3 +1,13 @@
+# Ignored Pages
+/docs/General/marketing_docs.md
+/docs/IFS/
+/docs/Marketo
+/docs/Miscellaneous
+/docs/Nuclera_Design_System
+/docs/Webinars/
+/docs/nuclera_sales_tool.md
+
+
 # Dependencies
 /node_modules
 
