@@ -1,6 +1,8 @@
 {
   "label": "Salesforce",
   "position": 2,
+  "collapsible": true,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "description": "Learn how to use Salesforce using interactive docs."
