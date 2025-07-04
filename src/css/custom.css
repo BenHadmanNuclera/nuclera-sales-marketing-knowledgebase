@@ -4,6 +4,12 @@
  * work well for content-centric websites.
  */
 
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
 /* You can override the default Infima variables here. */
 
 /*Added custom font here:*/
@@ -49,7 +55,120 @@
 
 .hero__title {
   font-size: 3rem;
-  margin-bottom:50px;
+  margin-bottom: 50px;
+}
+
+.hero {
+background-image: url("https://www.nuclera.com/wp-content/uploads/2023/03/Group-265-1.png");
+  background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: contain;
+}
+
+.button--white {
+  justify-content: center;
+  align-items: center;
+  padding: 10px 24px;
+  gap: 10px;
+  width: 103px;
+  height: 40px;
+  left: 20px;
+  top: 76px;
+  background: #ffffff;
+  border-radius: 100px;
+
+  font-family: var(--ifm-font-family-base);
+  font-weight: 700;
+  font-size: 1.2rem;
+  line-height: 20px;
+
+  color: var(--ifm-color-primary);
+}
+
+ul.menu__list {
+  font-weight: 800;
+}
+
+.theme-doc-sidebar-item-link-level-3 {
+  font-weight: 500;
+}
+
+
+/*styling for form*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.support-form-container {
+  @apply max-w-2xl p-6;
+}
+
+/* Form specific styles */
+.form-input {
+  @apply flex h-10 w-full rounded-md border px-3 py-2 text-sm;
+}
+
+.form-label {
+  @apply text-sm font-medium;
+}
+
+.form-button {
+  @apply inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 disabled:opacity-50;
+}
+
+/* feaure link */
+
+/* Remove default link styling */
+.featureLink {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Apply border styling */
+.featureLink {
+  border-style: solid;
+  border-color: #c4eed0;
+  border-radius: 6px;
+  border-width: 1px;
+  display: block;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect for the entire column */
+.featureLink:hover {
+  background: #c4eed0;
+}
+
+/* CSS for the homepage features */
+
+a.col.col--4 {
+  text-decoration: none;
+  border-style: solid;
+  border-color: #c4eed0;
+  border-radius: 6px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+a.col.col--4:hover {
+    background: #c4eed0;
+    transition: all .6s ease-in-out !important;
+}
+
+.text--center{
+  color:#00200a;
+}
+
+.footer__copyright {
+  color:#ffffff
 }
 
 .button--white {
