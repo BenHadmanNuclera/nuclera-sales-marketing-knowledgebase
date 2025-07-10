@@ -1,0 +1,15 @@
+---
+sidebar_position: 1
+slug: Circular_eGene_Training_Video
+title: Internal Circular eGene Training Video
+tags: [product]
+---
+Internal training video hosted by Yvonne to discuss AlphaFold features and use cases
+
+<iframe
+  src="https://drive.google.com/file/d/1Yled0owfKuHKshZzNgT61wIjLZa2-rpk/view"
+  width={640}
+  height={480}
+  allow="autoplay"
+/>
+
