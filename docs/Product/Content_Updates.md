@@ -4,9 +4,13 @@ slug: Content_Updates
 title: Content Updates
 tags: [product]
 ---
+*14/07/2025*
 
+**Content:**  
+**Asset name:** [eProtein™ Quantification Kit Flyer](https://info.nuclera.com/flyer-eprotein-quantification-kit.html)  
+**Asset type:** Flyer
 
-*30/05/2025*
+*30/06/2025*
 
 **Content:**  
 **Asset name:** [pNUC Vector Sequences](https://info.nuclera.com/manual-vector-sequences.html)  
