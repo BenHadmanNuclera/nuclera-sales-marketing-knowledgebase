@@ -11,28 +11,26 @@ tags: [salesforce]
 
 ## Converting a Lead
 
-A 'Lead' is the starting point within Salesforce, typically at the first stage a potential customer makes themselves known to a company there is limited information about that person and their associated company. The 'Lead' record stores that limited information and allows a sales user to act upon the them. 
+A 'Lead' is the starting point within Salesforce, typically at the first stage a potential customer makes themselves known to a company there is limited information about that person and their associated company. The 'Lead' record stores that limited information and allows a salesperson to act upon the them. 
 
-A Lead is 'converted' into an account, contact, and optionally an opportunity, using information from the lead you're converting. This allows for higher fidelity information to be recorded in the more detailed Account, Contact and Opportunity relational data structures.
+A Lead is 'converted' into an Account, Contact, and optionally an Opportunity, using information from the lead you're converting. This allows for higher fidelity information to be recorded in the more detailed Account, Contact and Opportunity related data structures.
 The converted lead becomes a read-only record.
 
-![](https://douglascayers.files.wordpress.com/2014/09/lead_conversion.png)
+![](https://knowledgebase.nuclera.com/img/lead_conversion.png)
 
 If existing accounts and contacts exist within the system that the lead is associated with, you can choose to associate with existing accounts and contacts (rather than create a duplicate record) at the point of lead conversion.
 
-![Lead Conversion Window](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/leads_opportunities_lightning_experience/create-and-convert-leads-lightning/images/bbaa57bf095de982b6e9f5f99b357307_convert-lead.png)
-
 The following process diagram shows how to go about working through this conversion process. Simply put, you should check if the account or contact already exists in the platform before creating a new one.
 
-![Lead Conversion Decision Matrix](https://focusonforce.com/wp-content/uploads/2014/02/Salesforce-Lead-Conversion-Process2.png)
+![Lead Conversion Decision Matrix](https://knowledgebase.nuclera.com/img/lead_conversion.svg)
 
 ## How to convert a lead
 
-
+![Lead Conversion Window](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/leads_opportunities_lightning_experience/create-and-convert-leads-lightning/images/bbaa57bf095de982b6e9f5f99b357307_convert-lead.png)
 
 ### Common scenarios
 
-There is an important but subtle difference between how we record common 'Lead scenarios'.
+There is an important but subtle difference between how we record common scenarios.
 
 #### Scenario A
 
@@ -51,6 +49,8 @@ _Description:_ In *Scenario C* a lead comes in with pressing requirement for our
 
 _How to Process:_ In *Scenario C* the status is set to _'Closed - Converted'_ AND and an Opportunity is created (default behaviour).
 
+## Workflow Diagram
 
+![LeadConversion](https://knowledgebase.nuclera.com/img/leadConversion.jpg)
 
 
