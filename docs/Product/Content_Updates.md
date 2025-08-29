@@ -7,6 +7,7 @@ tags: [product]
 
 *29/08/2025*
 **Content:** 
+
 **Asset name:** [TEV Cleavage Protocol for Removal of C-terminal STREP  and DET Tags]([https://info.nuclera.com/flyer-soluble-protein-workflow.html](https://info.nuclera.com/manual-tev-cleavage.html))
 **Asset type:** Manual/Guide
 
@@ -20,23 +21,26 @@ tags: [product]
 *27/08/2025*
 
 **Pitch deck**
+
 **Asset name:** [Bacteriorhodopsin](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g378f0217a53_0_2009#slide=id.g378f0217a53_0_2009) 
 **Asset type:** Pitch deck
 
 *22/08/2025*
 **Content:**  
+
 **Asset name:** p4EU promotional Flyer (event specific)
 **Asset type:** Flyer
 
 *02/08/2025*
 
-[**Pitch deck**](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g378f0217a53_0_2273#slide=id.g378f0217a53_0_2273)
-**Asset name:** Nanodisc selection guide update
+**Pitch deck**
+**Asset name:** [Nanodisc selection guide update](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g378f0217a53_0_2273#slide=id.g378f0217a53_0_2273)
 **Asset type:** Pitch deck
 
 *14/07/2025*
 
 **Content:**  
+
 **Asset name:** [eProtein™ Quantification Kit Flyer](https://info.nuclera.com/flyer-eprotein-quantification-kit.html)  
 **Asset type:** Flyer
 
