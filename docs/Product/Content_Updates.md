@@ -8,13 +8,13 @@ tags: [product]
 *29/08/2025*
 **Content:** 
 **Asset name:** [TEV Cleavage Protocol for Removal of C-terminal STREP  and DET Tags]([https://info.nuclera.com/flyer-soluble-protein-workflow.html](https://info.nuclera.com/manual-tev-cleavage.html))
-**Asset type:** Flyer
+**Asset type:** Manual/Guide
 
 **Asset name:** [Your 48-Hour Solution to Soluble, Assay-Ready Protein](https://info.nuclera.com/flyer-soluble-protein-workflow.html)
 **Asset type:** Flyer
 
 **Asset name:** [Circular eGene™ construct amplification for largevolume applications](https://info.nuclera.com/manual-circular-egene-amplification-midiprep.html)
-**Asset type:** Flyer
+**Asset type:** Manual/Guide
 
 
 *27/08/2025*
