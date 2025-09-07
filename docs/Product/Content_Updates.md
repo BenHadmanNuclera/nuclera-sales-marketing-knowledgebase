@@ -5,6 +5,30 @@ title: Content Updates
 tags: [product]
 ---
 
+*07/09/2025*
+
+**Content:** 
+
+**Asset name:** [eProtein Discovery™ – GPCR Experimental Design: Tips from Literature Reviews](https://info.nuclera.com/guide-gpcr-literature-review.html)
+**Asset type:** Manual/Guide
+
+**Asset name:** [Cell-Free Transcription Factor Production:  From Disorder to Data in 48 Hours](https://info.nuclera.com/poster-transcription-factor.html)
+**Asset type:** Poster
+
+**Pitch deck**
+
+**Asset name:** [TEV cleavage protocol for the removal of C-terminal STREP and DET tags](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_6834#slide=id.g37c6ad6af2e_1_6834)
+**Asset type:** Pitch deck
+
+**Asset name:** [Parkin Case Study](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3385#slide=id.g37c6ad6af2e_1_3385)
+**Asset type:** Pitch deck
+
+**Asset name:** [VHL Case Study](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3568#slide=id.g37c6ad6af2e_1_3568)
+**Asset type:** Pitch deck
+
+**Asset name:** [MDM2 Case Study](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3784#slide=id.g37c6ad6af2e_1_3784)
+**Asset type:** Pitch deck
+
 *29/08/2025*
 
 **Content:** 
