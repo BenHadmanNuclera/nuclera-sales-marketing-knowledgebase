@@ -33,7 +33,7 @@ tags: [product]
 
 **Content:** 
 
-**Asset name:** [TEV Cleavage Protocol for Removal of C-terminal STREP  and DET Tags]([https://info.nuclera.com/flyer-soluble-protein-workflow.html](https://info.nuclera.com/manual-tev-cleavage.html))
+**Asset name:** [TEV Cleavage Protocol for Removal of C-terminal STREP  and DET Tags](https://info.nuclera.com/manual-tev-cleavage.html)
 **Asset type:** Manual/Guide
 
 **Asset name:** [Your 48-Hour Solution to Soluble, Assay-Ready Protein](https://info.nuclera.com/flyer-soluble-protein-workflow.html)
