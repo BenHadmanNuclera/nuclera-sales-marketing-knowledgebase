@@ -4,6 +4,21 @@ slug: Content_Updates
 title: Content Updates
 tags: [product]
 ---
+*29/10/2025*
+
+**Pitch deck**
+
+**Asset name:** [eGene Prep Services](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g39cba92a49b_0_1509#slide=id.g39cba92a49b_0_1509)
+**Asset type:** Pitch deck
+
+**Asset name:** [Pricing](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3568#slide=id.g37c6ad6af2e_1_3568)
+**Asset type:** Pitch deck
+
+**Asset name:** [Product information](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g39ca466fe72_5_0#slide=id.g39ca466fe72_5_0)
+**Asset type:** Pitch deck
+
+**Asset name:** [Different routes to scale-up](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g39e26015d20_1_0#slide=id.g39e26015d20_1_0)
+**Asset type:** Pitch deck
 
 *07/09/2025*
 
