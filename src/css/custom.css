@@ -60,10 +60,14 @@
 
 .hero {
 background-image: url("https://knowledgebase.nuclera.com/img/header.png");
-  background-repeat: no-repeat;
-    background-position: right center;
+  background-repeat: repeat!important;
+    background-position: top center!important;
     background-attachment: scroll;
     background-size: contain;
+}
+
+.hero--primary {
+    --ifm-hero-background-color: #0F3F68!important;
 }
 
 .button--white {
