@@ -4,9 +4,84 @@ slug: Content_Updates
 title: Content Updates
 tags: [product]
 ---
+*29/10/2025*
+
+**Pitch deck**
+
+**Asset name:** [eGene Prep Services](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g39cba92a49b_0_1509#slide=id.g39cba92a49b_0_1509)
+**Asset type:** Pitch deck
+
+**Asset name:** [Pricing](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3568#slide=id.g37c6ad6af2e_1_3568)
+**Asset type:** Pitch deck
+
+**Asset name:** [Product information](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g39ca466fe72_5_0#slide=id.g39ca466fe72_5_0)
+**Asset type:** Pitch deck
+
+**Asset name:** [Different routes to scale-up](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g39e26015d20_1_0#slide=id.g39e26015d20_1_0)
+**Asset type:** Pitch deck
+
+*07/09/2025*
+
+**Content:** 
+
+**Asset name:** [eProtein Discovery™ – GPCR Experimental Design: Tips from Literature Reviews](https://info.nuclera.com/guide-gpcr-literature-review.html)
+**Asset type:** Manual/Guide
+
+**Asset name:** [Cell-Free Transcription Factor Production:  From Disorder to Data in 48 Hours](https://info.nuclera.com/poster-transcription-factor.html)
+**Asset type:** Poster
+
+**Pitch deck**
+
+**Asset name:** [TEV cleavage protocol for the removal of C-terminal STREP and DET tags](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_6834#slide=id.g37c6ad6af2e_1_6834)
+**Asset type:** Pitch deck
+
+**Asset name:** [Parkin Case Study](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3385#slide=id.g37c6ad6af2e_1_3385)
+**Asset type:** Pitch deck
+
+**Asset name:** [VHL Case Study](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3568#slide=id.g37c6ad6af2e_1_3568)
+**Asset type:** Pitch deck
+
+**Asset name:** [MDM2 Case Study](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g37c6ad6af2e_1_3784#slide=id.g37c6ad6af2e_1_3784)
+**Asset type:** Pitch deck
+
+*29/08/2025*
+
+**Content:** 
+
+**Asset name:** [TEV Cleavage Protocol for Removal of C-terminal STREP  and DET Tags](https://info.nuclera.com/manual-tev-cleavage.html)
+**Asset type:** Manual/Guide
+
+**Asset name:** [Your 48-Hour Solution to Soluble, Assay-Ready Protein](https://info.nuclera.com/flyer-soluble-protein-workflow.html)
+**Asset type:** Flyer
+
+**Asset name:** [Circular eGene™ construct amplification for largevolume applications](https://info.nuclera.com/manual-circular-egene-amplification-midiprep.html)
+**Asset type:** Manual/Guide
+
+
+*27/08/2025*
+
+**Pitch deck**
+
+**Asset name:** [Bacteriorhodopsin](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g378f0217a53_0_2009#slide=id.g378f0217a53_0_2009) 
+**Asset type:** Pitch deck
+
+*22/08/2025*
+
+**Content:**  
+
+**Asset name:** p4EU promotional Flyer (event specific)
+**Asset type:** Flyer
+
+*02/08/2025*
+
+**Pitch deck**
+**Asset name:** [Nanodisc selection guide update](https://docs.google.com/presentation/d/1NkW5o1FiOrXAuSXlnphzHzytKyEokkA-4mzLa5EcJ3M/edit?slide=id.g378f0217a53_0_2273#slide=id.g378f0217a53_0_2273)
+**Asset type:** Pitch deck
+
 *14/07/2025*
 
 **Content:**  
+
 **Asset name:** [eProtein™ Quantification Kit Flyer](https://info.nuclera.com/flyer-eprotein-quantification-kit.html)  
 **Asset type:** Flyer
 
