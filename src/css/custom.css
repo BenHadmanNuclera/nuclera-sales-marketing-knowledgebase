@@ -16,15 +16,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 :root {
-  --ifm-color-primary: #5cbafa;
-  --ifm-color-primary-dark: #3bacf9;
-  --ifm-color-primary-darker: #2aa5f8;
-  --ifm-color-primary-darkest: #078de8;
-  --ifm-color-primary-light: #7dc8fb;
-  --ifm-color-primary-lighter: #8ecffc;
-  --ifm-color-primary-lightest: #c0e4fd;
+  --ifm-color-primary: #0f3f68;
+  --ifm-color-primary-dark: #0d395e;
+  --ifm-color-primary-darker: #0d3658;
+  --ifm-color-primary-darkest: #0b2c49;
+  --ifm-color-primary-light: #104572;
+  --ifm-color-primary-lighter: #114878;
+  --ifm-color-primary-lightest: #135287;
   --ifm-font-family-base: "Montserrat", DejaVu Sans, Verdana, sans‑serif;
-  --ifm-font-color-base: #384852;
+  --ifm-font-color-base: #0F3F68;
+    --ifm-color-emphasis-0: #ffffff;
+    --ifm-color-emphasis-100: #e1effd;
+    --ifm-color-emphasis-200: #bcdffb;
+    --ifm-color-emphasis-300: #81c6f8;
+    --ifm-color-emphasis-400: #3fa9f1;
+    --ifm-color-emphasis-600: #0971c0;
+    --ifm-color-emphasis-700: #08599c;
+    --ifm-color-emphasis-800: #0b4d81;
+    --ifm-color-emphasis-900: #0f3f68;
+    --ifm-color-emphasis-1000: #0f3f68;
 }
 .themedImage--light_node_modules-\@docusaurus-theme-classic-lib-theme-ThemedImage-styles-module {
   margin-right: 6px;
@@ -40,14 +50,14 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-  --ifm-color-primary: #91cffd;
-  --ifm-color-primary-dark: #6abefc;
-  --ifm-color-primary-darker: #56b5fc;
-  --ifm-color-primary-darkest: #1c9cfb;
-  --ifm-color-primary-light: #b8e0fe;
-  --ifm-color-primary-lighter: #cce9fe;
+  --ifm-color-primary: #cce2f7;
+  --ifm-color-primary-dark: #a5ccf1;
+  --ifm-color-primary-darker: #92c1ee;
+  --ifm-color-primary-darkest: #579fe5;
+  --ifm-color-primary-light: #f3f8fd;
+  --ifm-color-primary-lighter: #ffffff;
   --ifm-color-primary-lightest: #ffffff;
-  --ifm-background-color: #201d24;
+  --ifm-background-color: #0F3F68;
   --ifm-font-color-base: #ffffff;
 }
 
@@ -59,7 +69,7 @@
 }
 
 .hero {
-background-image: url("https://knowledgebase.nuclera.com/img/header.png");
+background-image: url("https://res.cloudinary.com/df4tgmvzg/image/upload/v1762514945/Knowledgebase_Header_1920x400px_v01_jvven6.png");
   background-repeat: repeat!important;
     background-position: top center!important;
     background-attachment: scroll;

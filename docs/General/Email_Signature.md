@@ -11,7 +11,7 @@ sidebar_position: 1
 - Copy
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://dubble-prod-01.s3.amazonaws.com/assets/3a9f2213-d3e7-4703-92fc-27bddd1c7076.png?0)
+![](https://res.cloudinary.com/df4tgmvzg/image/upload/v1762510693/email-sig_tuq0m2.png)
 
 2\. [Navigate to Gmail > Click on Settings Cog (top right)](https://mail.google.com/mail/u/0/#inbox)
 --------------------------------------------------------------------

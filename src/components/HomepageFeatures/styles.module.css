@@ -9,3 +9,12 @@
   height: 200px;
   width: 200px;
 }
+a.col.col--4 {
+  border: 1px solid #CCE2F7;
+  border-radius: 6px;
+  padding: 20px;
+  text-decoration: none;
+}
+.featureLink:hover, a.col.col--4:hover {
+    background: #CCE2F7;
+}
